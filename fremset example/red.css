@@ -1,0 +1,13 @@
+#sidebar a:link,
+#sidebar a:visiteid{
+color:#ff3333;
+text-decoration:none;
+font-size:38px
+}
+#sidebar a:hover,
+#sidebar a:active{
+color:#000000;
+text-decoration:underline;
+background:#ffffff;
+}
+#sidebar a:font-size{38px}

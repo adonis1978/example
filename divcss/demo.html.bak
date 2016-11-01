@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>css入门小案例</title>
+<!--引入我们的css-->
+<link rel="stylesheet" type="text/css" href="./my.css" />
+</head>
+<body>
+<div class="style1">
+<img src="./2.jpg"/>
+</div>
+</body>
+</html>

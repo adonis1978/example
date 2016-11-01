@@ -1,0 +1,11 @@
+.style1{
+       /*宽度 */
+       width: 400px;
+       height: 300px; /*一定要写一个分号*/
+       background-color:silver;
+       border:1px solid red;
+       margin-left:400px;
+       margin-top:250px;
+       padding-top:20px;
+       padding-left:40px;
+}

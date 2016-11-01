@@ -1,0 +1,28 @@
+body {margin:5px 5px 5px 5px} /* 页面边距 */
+body,p,table,a,form,input,textarea,select,botton {font-family:"Verdana","宋体"; font-size:12px; color:#000000} /* 页面、段落、表格、链接、表单的默认字体 */
+form {margin:0px} /* 表单边框宽度、边框颜色、表单边距、内容边距 */
+input,textarea,select,botton {padding:2px 2px 0px 2px} /* 表单边框宽度、边框颜色、表单边距、内容边距 */
+
+a:link    {text-decoration:none;      color:#222222} /* 未访问链接的颜色 */
+a:visited {text-decoration:none;      color:#444444} /* 已访问链接的颜色 */
+a:hover   {text-decoration:underline; color:#EE0000} /* 鼠标移到链接的颜色 */
+
+.empha {color:#FF0000} /* 强调字体 */
+.menu  {line-height:125%;} /* 菜单字体 */
+
+.pt {font-size:20px; font-weight:bold; color:#000000} /* 标题字体 */
+.p1 {font-size:14px; line-height:150%; color:#000000} /* 段落字体1 */
+.p2 {font-size:16px; line-height:150%; color:#000000} /* 段落字体2 */
+.p3 {font-size:18px; line-height:150%; color:#000000} /* 段落字体3 */
+
+.expressine {font-size:12px; font-family:"宋体"; color:#0000CC}
+.expressoute {font-size:12px; font-family:"宋体"; color:#CC0000}
+.expressinc {font-size:12px; font-family:"宋体"; color:#0000CC}
+.expressoutc {font-size:12px; font-family:"宋体"; color:#CC0000}
+.song {font-size:12px; font-family:"宋体"; color:#000000}
+.item {color:#888888}
+.firstalt{background-color:#EEEEEE}
+.secondalt{background-color:#FFFFFF}
+.tbhead{color:#FFFFFF;background-color:#8BAEE5}
+.tableoutline{background-color:#D6E0EF}
+.tbcat{color:#FFFFFF;background-color:#8BAEE5}

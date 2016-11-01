@@ -1,0 +1,75 @@
+body {
+font-family: Arial, Helvetica, Verdana, Sans-serif;
+font-size: 12px;
+color: #666666;
+background: #ffffff;
+}
+
+#page-container {
+width: 760px;
+margin: auto;
+/*background: white;*/
+}
+
+
+html, body {
+margin: 0;
+padding: 0;
+.hidden {
+display: none;
+}
+}
+
+
+#main-nav {
+background: red;
+height: 50px;
+}
+#header {
+
+height: 120px;
+background: #db6d16
+url(../images/headers/about.jpg);
+}
+
+#header h1 {
+margin: 0;
+padding: 0;
+}
+#sidebar-a {
+float: right;
+width: 280px;
+line-height: 18px;
+/*background: darkgreen;*/
+}
+#sidebar-a .padding {
+padding: 25px;
+}
+
+
+#content {
+	
+margin-right: 280px;
+line-height: 18px;
+/*background: green;*/
+padding: 25px;
+}
+#content .padding {
+padding: 25px;
+}
+
+#content h2 {
+margin: 0;
+padding: 0;
+padding-bottom: 15px;
+}
+#content p {
+margin: 0;
+padding: 0;
+padding-bottom: 15px;
+}
+#footer {
+clear: both;
+/*background: orange;*/
+height: 66px;
+}
